@@ -1,0 +1,1 @@
+{"name": "puls", "code": "def plus(x,y):\n p=x-y\n return p\n"}

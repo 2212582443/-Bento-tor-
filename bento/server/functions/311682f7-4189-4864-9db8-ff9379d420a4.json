@@ -1,0 +1,1 @@
+{"name": "ad", "code": "def ad(x,y):\n sum=x+y\n sum=x+y\n return sum"}
